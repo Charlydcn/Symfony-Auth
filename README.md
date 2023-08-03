@@ -1,3 +1,6 @@
-Exercice guidé Symfony visant l'authentification : inscription, connexion, gestion des rôles partout dans l'app, mail de confirmation à l'inscription
+<h1>Guided authentication Symfony exercise</h1><br>
+Registration, login, authorisations (by role), confirmation mail after register
 <br>
-[![My Skills](https://skillicons.dev/icons?i=symfony,php,vscode&theme=dark)](https://skillicons.dev)
+<br>
+
+[![SkillIcons](https://skillicons.dev/icons?i=symfony,php,vscode)](https://skillicons.dev)
